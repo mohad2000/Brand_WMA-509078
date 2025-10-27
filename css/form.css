@@ -14,6 +14,7 @@
     margin: 20px 0;
 }
 .reg-box{
+    
    width: 380px;
    /* border: 2px solid #2f3640; */
    background-color: #ffffff;
@@ -32,9 +33,11 @@
     /* margin-left: 50px; */
     font-size: 30px;
     text-align: center;
+    background-color: white;
 }
 
 .reg-form{
+    
     padding: 20px;
     background-color: #ffffff;
     /* margin-left: 30px; */

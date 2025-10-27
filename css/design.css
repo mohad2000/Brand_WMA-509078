@@ -145,3 +145,13 @@ a:hover::after {
     margin: 20px;
     color: white;
 }
+
+.login-img img{
+    width: 20vw;
+    height: 70vh;
+}
+
+.parant-form{
+    
+
+}
